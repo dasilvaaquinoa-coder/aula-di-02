@@ -1,0 +1,26 @@
+ body{
+    /*no body eu controlo a pagina toda*/
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;/*fonte da pagina toda*/
+    background-color: rgb(108, 32, 170); /* cor de fundo da pagina*/
+    color: rgb(9, 205, 219);/* cor da fonte*/
+ }
+ header{
+    background-color: rgb(98, 0, 255);
+    color: rgb(182, 31, 31);
+    padding: auto;
+    
+ }
+ main{
+    background-color: rgb(216, 37, 135);
+    padding:auto;
+ }
+ footer{
+    background-color: rgb(112, 9, 9);
+    color:rgb(111, 0, 255);
+    height: 100px;/*Altura do componente*/
+    padding:50px;
+ }
+ a{
+    color: black;
+    padding: 5px; /* espaço entre as margens*/ 
+ }
